@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/NeoScene.unity
+  isLoaded: 1
+  isActive: 1

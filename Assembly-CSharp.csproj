@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{3A33585D-ECE1-DBA7-4B89-6C38DD606338}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_8;UNITY_5_3;UNITY_5;UNITY_64;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>D:/Program_Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>D:/Program_Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\AliveScript.cs" />
+     <Compile Include="Assets\Scripts\CellScripts\EnergyPulser.cs" />
+     <Compile Include="Assets\Scripts\CellScripts\GenColorer.cs" />
+     <Compile Include="Assets\Scripts\CellScripts\Grizzler.cs" />
+     <Compile Include="Assets\Scripts\CellScripts\Lifter.cs" />
+     <Compile Include="Assets\Scripts\CellScripts\Observer.cs" />
+     <Compile Include="Assets\Scripts\CellScripts\SpriteColorSwitcher.cs" />
+     <Compile Include="Assets\Scripts\CellScripts\TNC.cs" />
+     <Compile Include="Assets\Scripts\DeadCountScript.cs" />
+     <Compile Include="Assets\Scripts\EffectScript.cs" />
+     <Compile Include="Assets\Scripts\InitialSupCameraPositter.cs" />
+     <Compile Include="Assets\Scripts\Interfaces\IActable.cs" />
+     <Compile Include="Assets\Scripts\IterationsScript.cs" />
+     <Compile Include="Assets\Scripts\KameraControl.cs" />
+     <Compile Include="Assets\Scripts\ManualMoverTNC.cs" />
+     <Compile Include="Assets\Scripts\MasterScripts\EffectsMaster.cs" />
+     <Compile Include="Assets\Scripts\MasterScripts\FrameRateCalculator.cs" />
+     <Compile Include="Assets\Scripts\MasterScripts\MapMaster.cs" />
+     <Compile Include="Assets\Scripts\MasterScripts\MasterScript.cs" />
+     <Compile Include="Assets\Scripts\MasterScripts\MasterSpawner.cs" />
+     <Compile Include="Assets\Scripts\MasterScripts\Statistics.cs" />
+     <Compile Include="Assets\Scripts\MasterScripts\TNOptions.cs" />
+     <Compile Include="Assets\Scripts\MasterScripts\TriangularNetArranger.cs" />
+     <Compile Include="Assets\Scripts\MessageShower.cs" />
+     <Compile Include="Assets\Scripts\NeoScripts\CellVars.cs" />
+     <Compile Include="Assets\Scripts\NeoScripts\NeoDeathCounter.cs" />
+     <Compile Include="Assets\Scripts\NeoScripts\NeoOptions.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\GNM.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\GenomeReader.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoid.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\OrganoidLoader.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMCellConsumer.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMEnergiver.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMEqualizer.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMExploder.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMFreeConsumer.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMFuser.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMGearer.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMInjector.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMJCeener.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMKiller.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMMover.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMPusher.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMRebirther.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMRotator.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMShifter.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMSpamer.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMSplitter.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMSprayer.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMSuicider.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMSwaper.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Organoids\PMVoidConsumer.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\P.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Protein.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Accumuton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\AltMovon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\AnothDoubleton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\AssGearon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\BackBudon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\BackGciBudon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Backwardon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\CellConsumon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Doubleton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\EcKillon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Energivon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Equalon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Explodon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\FastBackRoton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\ForBudon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\FreeConsumon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Fuson.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\GForBudon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Injecton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\JCeenon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Killon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\KissGearon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\L2Rotaton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\LKillon18.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\LeftRotaton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Movon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Navigon0.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Navigon1.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Navigon2.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Navigon3.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Navigon4.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Navigon5.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\NavigonB.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\PExchangon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Pushon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\R2Rotaton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Rebirthon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\RightRotaton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\SCSinkon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Shuffleton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\SpaceConsumon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Spamon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Spliton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\SplitonStealon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Sprayon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Suicidon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\Swapon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Activators\VoidConsumon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\BetaActivators\EqBomberon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\BetaActivators\FCPlagStarton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\BetaActivators\FSpliton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\BetaActivators\InjExpon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\BetaActivators\InjRevoluton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\BetaActivators\JCActivon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\BetaActivators\LightSpeedon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\BetaActivators\MAFon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\BetaActivators\MHungeron.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\BetaActivators\PBomberon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\BetaActivators\SurRoton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Commands\FCImidSprayon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Commands\FcWVcoon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Commands\FullAheadon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Commands\GammaHolyGrailon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Commands\ImidSprayon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Commands\ImidfromFCFuson.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Commands\KSMon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Fabricators\FCFabricaton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Fabricators\FusFabricaton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Fabricators\JCFabricaton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Fabricators\MovFabricaton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Fabricators\PFabricaton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Fabricators\YoungEGFabricaton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Regulators\Conservon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Regulators\LowEnergivon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Regulators\OldEnergivon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Regulators\YoungEnergivon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\DoubleShifton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\FC6Restarton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\HalfShifton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\HeritShifton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\HighEnRestarton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\LowEnRestarton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\NavRestarton0.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\NavRestarton1.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\NavRestarton2.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\NavRestarton3.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\NavRestarton4.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\NavRestarton5.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\NavRestartonAB.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\NavRestartonB.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\OldRestarton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\OnceDeRestarton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\OnceRestarton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\Restarton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\Restarton12.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\Restarton6B.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\SmoothAgeDeRestarton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\SmoothAgeRestarton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\TShifton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Shifters\YoungRestarton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TWanderers\FCPlaguon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TWanderers\Maklayon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TWanderers\Nothingon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TransRegulators\FCDeshifton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TransRegulators\HighEnBomberon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TransRegulators\HighEnDeathon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TransRegulators\HighEnSPRegulon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TransRegulators\KSurVCon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TransRegulators\KilOldExTranson.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TransRegulators\LeDeplaguon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TransRegulators\SurInjAHGon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\TransRegulators\SurMovon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\FCExpUtiliton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\FCWaston.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\FreConUtiliton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\HEBomUtiliton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\HEnTMovon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\InjSPrionUtiliton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\MASuron.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\MaklUtiliton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\SuiNExplUtiliton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\TransBetaRestarton12.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\TransInjecton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\TransMovon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\TransNavigonB.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\TransRestarton12.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\TransRotaton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Transproteins\TransSwapon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\AlphaHolyGrailon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\BetaHolyGrailon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\FreeconsumExplodon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\InjDeathon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\InjSPrion.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\InjectIngibiton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\MoveAcceleron.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\PopCornon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\SPrPrion.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\ShiftIngibiton.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\SplitDeenergon.cs" />
+     <Compile Include="Assets\Scripts\ProteinModelScripts\Proteins\Trojans\SplitPrion.cs" />
+     <Compile Include="Assets\Scripts\SpdScrpt.cs" />
+     <Compile Include="Assets\Scripts\SpecialTestScript.cs" />
+     <Compile Include="Assets\Scripts\Statizer.cs" />
+     <Compile Include="Assets\Scripts\Tester.cs" />
+     <Compile Include="Assets\Scripts\TextFormatter.cs" />
+     <Compile Include="Assets\Scripts\TotEnScript.cs" />
+     <Compile Include="Assets\Scripts\UIMover.cs" />
+     <Compile Include="Assets\Scripts\UIinputController.cs" />
+     <Compile Include="Assets\Scripts\UniEffectScript.cs" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Program_Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>D:/Program_Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

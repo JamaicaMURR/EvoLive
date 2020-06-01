@@ -1,0 +1,1291 @@
+Mono path[0] = 'D:/Program_Projects/Unity_proj/CyberCells/CC_AlphaBuild19_Data/Managed'
+Mono path[1] = 'D:/Program_Projects/Unity_proj/CyberCells/CC_AlphaBuild19_Data/Mono'
+Mono config path = 'D:/Program_Projects/Unity_proj/CyberCells/CC_AlphaBuild19_Data/Mono/etc'
+PlayerConnection initialized from D:/Program_Projects/Unity_proj/CyberCells/CC_AlphaBuild19_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55007
+Multi-casting "[IP] 10.2.133.131 [Port] 55007 [Flags] 3 [Guid] 766555903 [EditorId] 868403170 [Version] 1048832 [Id] WindowsPlayer(BRICK) [Debug] 0" to [225.0.0.222:54997]...
+Waiting for connection from host on [10.2.133.131:55007]...
+Timed out. Continuing without host connection.
+PlayerConnection already initialized - listening to [10.2.133.131:55007]
+Initialize engine version: 5.3.8p2 (702ec25c6a03)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730   (ID=0x1287)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Program_Projects\Unity_proj\CyberCells\CC_AlphaBuild19_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Program_Projects\Unity_proj\CyberCells\CC_AlphaBuild19_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program_Projects\Unity_proj\CyberCells\CC_AlphaBuild19_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Program_Projects\Unity_proj\CyberCells\CC_AlphaBuild19_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Program_Projects\Unity_proj\CyberCells\CC_AlphaBuild19_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Program_Projects\Unity_proj\CyberCells\CC_AlphaBuild19_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Program_Projects\Unity_proj\CyberCells\CC_AlphaBuild19_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Program_Projects\Unity_proj\CyberCells\CC_AlphaBuild19_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.146 seconds
+Platform assembly: D:\Program_Projects\Unity_proj\CyberCells\CC_AlphaBuild19_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Program_Projects\Unity_proj\CyberCells\CC_AlphaBuild19_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1655)
+
+UnloadTime: 1.279828 ms
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+The referenced script on this Behaviour (Game Object 'MeF') is missing!
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:95)
+NeoMover:AbsMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:42)
+NeoMover:RelMove(Int32, Boolean) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoMover.cs:21)
+NeoInterpretatorOfGenome:Move(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:116)
+NeoInterpretatorOfGenome:ExecuteGen(Single[]) (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:62)
+NeoInterpretatorOfGenome:MasterHand() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\NeoScripts\NeoInterpretatorOfGenome.cs:54)
+MasterScript:FixedUpdate() (at D:\Program_Projects\Unity_proj\CyberCells\Assets\Scripts\MasterScripts\MasterScript.cs:132)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1655] 
+(Filename: C:/buildslave/unity/build/Runtime/Export/UnityEngineObject.cs Line: 95)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: ddc -> priority: 1 
